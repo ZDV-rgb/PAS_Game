@@ -1,2 +1,3 @@
 # PAS_Game
-PAS
+PAS Game Gunting Kertas Batu
+
